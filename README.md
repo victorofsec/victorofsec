@@ -1,6 +1,6 @@
 # Hi, I'm Victor 👋
 ![banner](image.png)
-16-year-old student from France interested in **computer science, cybersecurity, AI and quantitative finance**.<br><br>🎓 Final-year high school student — Mathematics, Physics & Advanced Mathematics  <br>💻 Building projects with Python, JavaScript, Django, Flask and Linux  <br>🔐 Interested in cybersecurity, cryptography and networking  <br>🤖 Exploring AI, computer vision and automation  <br>📈 Experimenting with quantitative finance and market analysis  <br><br>I mostly use GitHub to **build things, experiment, and understand how systems work**.<br>
+16-year-old student from France interested in **computer science, cybersecurity, AI and quantitative finance**.<br><br>🎓 Final-year high school student — Mathematics, Physics & Advanced Mathematics  <br>🔐 Interested in cybersecurity, cryptography and networking  <br>🤖 Exploring AI, computer vision and automation  <br>📈 Experimenting with quantitative finance and market analysis  <br><br>I mostly use GitHub to **build things, experiment, and understand how systems work**.<br>
 
 
 # 💻 Tech Stack:
